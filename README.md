@@ -4,108 +4,95 @@ End-to-end Influencer Marketing Analytics Projects using Python, SQL, and Power 
 
 ## 📌 Project Overview
 
-This project focuses on analyzing influencer marketing campaigns to evaluate performance, engagement, and return on investment (ROI). It helps identify high-performing influencers and optimize marketing strategies using data-driven insights.
+This project analyzes influencer marketing campaign data to evaluate performance, engagement, and return on investment (ROI). It helps businesses identify high-performing influencers and optimize marketing strategies using data-driven insights and machine learning.
 
 ---
 
 ## 🎯 Objectives
 
-* Analyze influencer performance across multiple platforms
-* Calculate engagement rate, ROI, and conversion rate
+* Measure influencer effectiveness using engagement and ROI
 * Identify top-performing influencers
 * Detect fake or low-quality influencers
-* Provide actionable business insights
+* Predict ROI using machine learning
+* Support decision-making for marketing strategies
 
 ---
 
 ## 🛠 Tech Stack
 
-* **Python (Pandas, NumPy, Matplotlib, Seaborn)**
-* **SQL (MySQL / PostgreSQL)**
-* **Power BI (Dashboard & Visualization)**
-* **Excel (Data Handling)**
+* Python (Pandas, NumPy, Scikit-learn)
+* SQL (Data Analysis)
+* Power BI (Dashboard & Visualization)
+* Excel
 
 ---
 
 ## 📊 Key Metrics
 
-* **Engagement Rate** = (Likes + Comments + Shares) / Followers
-* **ROI (Return on Investment)** = (Revenue - Campaign Cost) / Campaign Cost
-* **Conversion Rate** = Conversions / Clicks
+* Engagement Rate
+* ROI (Return on Investment)
+* Conversion Rate
+* Influencer Score
 
 ---
 
-## 🔍 Features
+## 🤖 Machine Learning Implementation
 
-* 📈 Influencer performance analysis
-* 💰 ROI calculation and comparison
-* 📊 Platform-wise analysis
-* 🧠 Influencer ranking model
-* 🚨 Fake influencer detection (low engagement, high followers)
-* 📉 Campaign performance insights
+* Built a **Linear Regression model** to predict ROI
+* Implemented a **classification model** to categorize influencers (Good, Average, Bad)
+* Added predicted ROI to dataset for advanced analysis
+* Evaluated model performance using R² score and accuracy
+
+---
+
+## 🔍 Key Features
+
+* Data cleaning and preprocessing
+* Feature engineering (metrics calculation)
+* Influencer ranking system
+* Fake influencer detection
+* ROI prediction using ML
+* Platform-wise performance analysis
 
 ---
 
 ## 📂 Project Structure
 
-```
-Influencer-ROI-Analyzer/
-│
-├── data/              # Raw & cleaned datasets  
-├── python/            # Data cleaning & analysis scripts  
-├── sql/               # SQL queries & insights  
-├── powerbi/           # Dashboard files (.pbix)  
-├── screenshots/       # Dashboard images  
-└── README.md  
-```
+* data/ (raw, cleaned, final dataset)
+* python/ (data processing and ML code)
+* sql/ (analysis queries)
+* powerbi/ (dashboard files)
+* screenshots/ (dashboard visuals)
 
 ---
 
-## 👩‍💻 Team Members
+## 📈 Business Insights
 
-* **Priya Rani** – Data Processing & Python Analysis
-* **Harsh Kumar Sharma** – SQL Queries & Data Insights
-* **Yashi Agrawal** – Power BI Dashboard & Visualization
-
----
-
-## 🚀 Workflow
-
-1. Data Collection & Cleaning
-2. Feature Engineering (Metrics Calculation)
-3. Data Analysis (Python & SQL)
-4. Visualization (Power BI Dashboard)
-5. Insight Generation
-
----
-
-## 📊 Sample Insights
-
-* Influencers with high followers but low engagement were flagged as fake
-* Instagram showed higher engagement compared to other platforms
-* ROI varied significantly across campaign types
+* Identified high ROI influencers for better campaign investment
+* Detected low-engagement influencers with high followers
+* Compared platform performance for marketing optimization
 
 ---
 
 ## 📸 Dashboard Preview
 
-(Add screenshots in this section after creating dashboard)
+(Add Power BI screenshots here)
 
 ---
 
-## 📈 Future Enhancements
+## 👩‍💻 Team Contribution
 
-* Machine Learning model for campaign success prediction
-* Real-time data integration
-* Automated reporting system
+* Priya Rani – Data Processing, Feature Engineering, Machine Learning
+* Harsh Kumar Sharma – SQL Analysis & Insights
+* Yashi Agrawal – Power BI Dashboard & Visualization
 
 ---
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+MIT License
 
----
+
 
 ## 🤝 Contribution
 
