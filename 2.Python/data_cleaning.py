@@ -1,3 +1,4 @@
+# This file perform data cleaning for influencer dataset
 import pandas as pd
 
 #Load dataset
