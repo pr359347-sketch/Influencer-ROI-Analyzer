@@ -1,7 +1,6 @@
-create database influencer_db;
-use influencer_db;
-create table influencer(
-    
+create database influencer_roi_db;
+use influencer_roi_db;
+create table influencer_data(
     influencer_id INT PRIMARY KEY,
     influencer_name VARCHAR(100),
     platform VARCHAR(50),
