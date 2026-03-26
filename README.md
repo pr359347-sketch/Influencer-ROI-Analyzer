@@ -128,7 +128,7 @@ An interactive dashboard was developed to visualize insights and support decisio
 
 ### 🔹 Dashboard Preview
 
-![Dashboard Screenshot](powerbi/dashboard.png)
+![Dashboard Screenshot](https://github.com/pr359347-sketch/Smart-Influencer-ROI-Analyzer/blob/main/4.Power%20BI/Dashboardscreenshot.png)
 
 ---
 
