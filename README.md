@@ -152,11 +152,21 @@ project/
 │   └── ml.pkl
 │
 ├── sql/
-│   └── queries.sql
+│   ├── 1_schema.sql
+│   └── 2_queries.sql
 │
 ├── powerbi/
-│   ├── dashboard.pbix
-│   └── dashboard.png
+│   ├── 1.Dashboard.pbix
+│   ├── Dashboardscreenshot.png
+│   └── MainDashboard.pbix
+│
+├── Screenshot/
+│   ├── Page-1 Influencer Marketing.png
+│   ├── Page-2 Influencer Analysis.png
+│   ├── Page-3 Campaign and ROI Analysis.png
+│   └── Page-4 Main Dashboard.png
+│
+├── LICENSE
 │
 └── README.md
 ```
